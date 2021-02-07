@@ -1,0 +1,8 @@
+{
+    "*": {
+        "target": "https://devback.ventasremotas.com/orders/technical-admission-test/",
+        "secure": false,
+        "logLevel": "debug",
+        "changeOrigin": true
+    }
+}
